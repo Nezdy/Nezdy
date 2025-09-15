@@ -42,13 +42,16 @@ Mi principal interés se centra en el diseño de mecanismos, especialmente en So
 ## Contacto
 puedes encontrarme y conectar conmigo a traves de:
 <div align="center">
-<a href="https://www.instagram.com/jhoannanezzdy?igsh=NHIzNTk1bjNuZDRu="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/share/19SbzzHgHt/="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <a href="https://www.instagram.com/[TU_USUARIO_DE_INSTAGRAM]" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://www.facebook.com/[TU_PERFIL_DE_FACEBOOK]" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  </a>
+  <a href="https://github.com/[TU_USUARIO_DE_GITHUB]" target="_blank">
+    <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</div> 
 
 <div align="center">
  
