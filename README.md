@@ -31,13 +31,20 @@ Mi principales intereses se centra en la programación y en el diseño de mecani
 
 ## Sofware y lenguajes que he manejado
 <div align="center">
-<a href="https://www.solidworks.com/" target="_blank"><img src="https://img.shields.io/badge/SolidWorks-000000?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" /></a>
-<a href="https://www.ansys.com/" target="_blank"><img src="https://img.shields.io/badge/ANSYS-0077E6?style=for-the-badge&logo=ansys&logoColor=white" alt="Ansys" /></a>
-<a href="https://www.labcenter.com/" target="_blank"><img src="https://img.shields.io/badge/Proteus-4169E1?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus" /></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" /></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /></a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" /></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" /></a>
+
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-trabajo-solido-icon-svg-download-png-282892.png?f=webp&w=256" alt="SolidWorks" style="width: 100px; height: 100px;"/>
+<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/lenguaje-c-icon-svg-download-png-7196965.png?f=webp&w=256" alt="Lenguaje C" style="width: 100px; height: 100px;"/>
+<img src="https://www.svgrepo.com/show/303654/java-logo.svg" alt="Java" style="width: 100px; height: 100px;"/>
+<img src="https://www.svgrepo.com/show/373830/matlab.svg" alt="MATLAB" style="width: 100px; height: 100px;"/>
+</div>
+<div align="center">
+  
+ <img src="https://www.svgrepo.com/show/452091/python.svg" alt="" style="width: 100px; height: 100px;"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-sobresalir-icon-svg-download-png-1194336.png?f=webp&w=256" alt="" style="width: 100px; height: 100px;"/>
+<img src="https://registrotic.catic.unam.mx/storage/tienda/software/ico-ansys.png" alt="" style="width: 100px; height: 100px;"/>
+<img src="https://electronicareyes.com/wp-content/uploads/2025/08/proteus.png" alt="" style="width: 100px; height: 100px;"/>
+ 
+</div>
 </div>
 
 ## Contacto
@@ -58,4 +65,3 @@ puedes encontrarme y conectar conmigo a traves de:
  
  ## "𝑮𝑹𝑨𝑪𝑰𝑨𝑺 𝑷𝑶𝑹 𝑽𝑰𝑺𝑰𝑻𝑨𝑹 𝑴𝑰 𝑷𝑬𝑹𝑭𝑰𝑳, 𝑬𝑺𝑷𝑬𝑹𝑶 𝒀 𝑽𝑶𝑳𝑽𝑨𝑴𝑶𝑺 𝑨 𝑪𝑶𝑰𝑵𝑪𝑰𝑫𝑰𝑹"
 </div>
-  
