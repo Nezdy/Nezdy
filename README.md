@@ -26,10 +26,10 @@ Mi formación académica comenzó a los 11 años en Villa de los Niños, una esc
 - 📺 Ver series.
 - 👨‍👩‍👧‍👦 Compartir momentos con mi familia y amigos.
 
-## Áreas de Interés
-Mi principal interés se centra en el diseño de mecanismos, especialmente en SolidWorks. Es un área que me apasiona y en la que me esfuerzo por mejorar continuamente.
+## Interese
+Mi principales intereses se centra en la programación y en el diseño de mecanismos, especialmente en SolidWorks. Es un área que me apasiona y en la que me esfuerzo por mejorar continuamente.
 
-## Programas que manejo
+## Sofware y lenguajes que he manejado
 <div align="center">
 <a href="https://www.solidworks.com/" target="_blank"><img src="https://img.shields.io/badge/SolidWorks-000000?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" /></a>
 <a href="https://www.ansys.com/" target="_blank"><img src="https://img.shields.io/badge/ANSYS-0077E6?style=for-the-badge&logo=ansys&logoColor=white" alt="Ansys" /></a>
