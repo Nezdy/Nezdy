@@ -1,6 +1,7 @@
 <div align="center">
- 
-# 𝐉𝐎𝐇𝐀𝐍𝐀 𝐋𝐎𝐔𝐑𝐃𝐄𝐒
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=+JOHANA+LOURDES" alt="Johana Lourdes">
+  <br> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&color=%23FF69B4&size=40&center=true&vCenter=true&height=50&width=400&lines=Futura+Ingeniera" alt="Futura Ingeniera">
 </div>
 
 ![alt text](https://raw.githubusercontent.com/Nezdy/Nezdy/58e7091cda53fc5411acbb56a8d088da143022aa/yo.png)
