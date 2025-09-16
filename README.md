@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&color=%23FF69B4&size=40&center=true&vCenter=true&height=50&width=400&lines=Futura+Ingeniera" alt="Futura Ingeniera">
 </div>
 
-![alt text](https://raw.githubusercontent.com/Nezdy/Nezdy/58e7091cda53fc5411acbb56a8d088da143022aa/yo.png)
+![alt text](https://raw.githubusercontent.com/Nezdy/Nezdy/7eab115cfd51f97e6210b00cabc9fd7159488617/finn.png)
  
 ## ¡Hola!
  Mi nombre es Johana Lourdes Martínez de Dios. Soy una estudiante de Ingeniería Mecatrónica en la Universidad Tecnológica de la Mixteca.
